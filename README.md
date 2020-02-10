@@ -5,5 +5,5 @@ This Project is for me to learn and grasp the functionality of python interactio
 - [ ] Learn screen capture
 - [ ] Learn how to do a target screen capture for a window
 - [ ] Learn how to interact with a software
-- ... [ ] Inputting values into software e.g number 5 in a calculator
+    - [ ] Inputting values into software e.g number 5 in a calculator
 - [ ] Update this read-me
